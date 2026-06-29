@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Apr 23 18:54:41 2026 
+Best design point: 1
+Design specs: 
+	ee6320_2026_VCO_V1_1	corner	Nominal - 
+	OP("/M2" "gm")		127.2m
+Design parameters: 
+
+ExplorerRun.7
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.7 completed. 
+Current time: Thu Apr 23 18:54:51 2026 

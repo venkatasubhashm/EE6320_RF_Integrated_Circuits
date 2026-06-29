@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Apr 25 16:31:16 2026 
+Best design point: 1
+Design specs: 
+	ee6320_2026_VCO_V1_1	corner	Nominal - 
+	(freq (vtime('tran "/net9") - vtime('tran "/net5")))		Error	No
+Design parameters: 
+
+ExplorerRun.68
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.68 completed. 
+Current time: Sat Apr 25 16:31:34 2026 

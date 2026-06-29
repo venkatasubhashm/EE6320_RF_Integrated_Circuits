@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Tue Mar 10 14:54:07 2026 
+Best design point: 1
+Design specs: 
+	ee6320_2026_LNA_TestBench_1	corner	Nominal - 
+	Input Referred IP3 Point		-9.523
+Design parameters: 
+
+ExplorerRun.133
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.133 completed. 
+Current time: Tue Mar 10 14:54:22 2026 

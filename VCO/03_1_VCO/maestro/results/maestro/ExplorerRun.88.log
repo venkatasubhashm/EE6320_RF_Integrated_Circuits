@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Apr 25 19:00:44 2026 
+Best design point: 1
+Design specs: 
+	ee6320_2026_VCO_V1_1	corner	Nominal - 
+	output noise; dBc/Hz		Error	No
+Design parameters: 
+
+ExplorerRun.88
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.88 completed. 
+Current time: Sat Apr 25 19:00:58 2026 

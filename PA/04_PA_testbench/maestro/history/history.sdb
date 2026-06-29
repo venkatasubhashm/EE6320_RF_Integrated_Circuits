@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>May 5 18:19:42 2026</timestamp>
+			<uuid>{c853b8c4-a87a-4ab0-8642-03cbe21cc369}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.0</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.0</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.1
+			<timestamp>May 5 18:20:13 2026</timestamp>
+			<uuid>{5972ce2d-7c09-4dfb-88d7-935061c79229}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.1</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.1</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.2
+			<timestamp>May 5 18:20:47 2026</timestamp>
+			<uuid>{2bd80a7b-7988-4df2-873f-a81df545d68b}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.2</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.2</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.3
+			<timestamp>May 5 18:22:22 2026</timestamp>
+			<uuid>{20f545b0-d9d2-4d36-8a65-6d5dee1cab2c}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.3</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.3</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.4
+			<timestamp>May 5 18:39:45 2026</timestamp>
+			<uuid>{f6938d7a-9877-424e-8758-d1e6e52f3e06}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.4</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.4</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.5
+			<timestamp>May 5 18:41:56 2026</timestamp>
+			<uuid>{beba9e5e-e798-4fc7-8c1e-96def62dc13b}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.5</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.5</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.6
+			<timestamp>May 5 18:43:26 2026</timestamp>
+			<uuid>{277f9bb1-e871-4154-9b68-33269a7b32dc}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.6</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.6</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.7
+			<timestamp>May 5 18:52:11 2026</timestamp>
+			<uuid>{2c55e43d-8803-4ec3-8680-a02297ea7e10}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.7</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.7</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.8
+			<timestamp>May 5 18:53:59 2026</timestamp>
+			<uuid>{c6d0c389-91ef-4e12-9c9c-22544976f993}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.8</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.8</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.9
+			<timestamp>May 5 18:57:26 2026</timestamp>
+			<uuid>{55e57d6f-3a89-4e94-b1f0-7710e8f6cb48}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.9</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.9</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.10
+			<timestamp>May 13 17:08:51 2026</timestamp>
+			<uuid>{925e11e9-9662-49ae-9350-2bb42cf1385e}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.10</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.10</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.11
+			<timestamp>May 13 18:13:00 2026</timestamp>
+			<uuid>{2d50a7be-1288-44fa-900c-676a87c73b47}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.11</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.11</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.12
+			<timestamp>May 13 18:13:53 2026</timestamp>
+			<uuid>{a94e0d99-c447-4ec9-95ec-1fe9230391b7}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.12</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.12</simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.13
+			<timestamp>May 13 18:14:46 2026</timestamp>
+			<uuid>{831388ec-a9a6-4704-a4f0-e232814bb8b7}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/ns25z205/cadence/EE6320_2026/ee6320_2026/04_PA_testbench/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.13</psfdir>
+			<simdir>/home/ns25z205/simulation/results/maestro/ExplorerRun.13</simdir>
+		</historyentry>
+	</history>
+</setupdb>

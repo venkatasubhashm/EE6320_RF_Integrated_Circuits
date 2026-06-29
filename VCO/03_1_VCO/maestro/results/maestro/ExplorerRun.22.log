@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Apr 23 20:34:47 2026 
+Best design point: 1
+Design specs: 
+	ee6320_2026_VCO_V1_1	corner	Nominal - 
+	v /net9; tran (V)		Error	No
+	v (/net9 /net5); tran (V)		Error	No
+	v /net5; tran (V)		Error	No
+Design parameters: 
+
+ExplorerRun.22
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.22 completed. 
+Current time: Thu Apr 23 20:35:08 2026 
